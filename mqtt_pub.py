@@ -16,7 +16,7 @@ global variables
 connected = False  # Stores the connection status
 BROKER_ENDPOINT = "industrial.api.ubidots.com"
 PORT = 1883
-MQTT_USERNAME = "BBFF-6rZbeJi4Zk2nD7ZxZ6ycyRe541jsd6"  # PUT HERE your TOKEN
+MQTT_USERNAME = "token"  # PUT HERE your TOKEN
 MQTT_PASSWORD = ""
 TOPIC = "/v1.6/devices/"
 DEVICE_LABEL = "coisa"   # PUT HERE your device label (lowercase)
